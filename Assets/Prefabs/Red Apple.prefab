@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 6503968795633062010}
   - component: {fileID: 9221719147046502038}
   - component: {fileID: 6159722527532915989}
+  - component: {fileID: -8996271081352056607}
   m_Layer: 0
   m_Name: Red Apple
   m_TagString: Untagged
@@ -191,6 +192,19 @@ MonoBehaviour:
   m_LimitAngularVelocity: 0
   m_MaxLinearVelocityDelta: 10
   m_MaxAngularVelocityDelta: 20
+--- !u!114 &-8996271081352056607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 977809759292403980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7edf468b7ca840b48a3dd5d409650ab1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Apple
+  type: 0
 --- !u!1 &9091189462660050369
 GameObject:
   m_ObjectHideFlags: 0
